@@ -57,7 +57,7 @@ void example2()
    bad_string_result2 = bad_array_example("second");
 
    raw_copy(bad_string1, bad_string_result1);
-   raw_copy(bad_string2, bad_string_result2);
+   raw_copy(bad_string2, bad_string_result2);   
 
    printf("string 1: %s\n", bad_string1);
    printf("string 2: %s\n", bad_string2);
